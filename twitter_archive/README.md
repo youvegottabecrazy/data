@@ -1,21 +1,23 @@
 # Twitter Archives
 
-+ Tweet archive for various public figures
++ Tweet archive for various public figures.
 
 + See https://github.com/bpb27 for more archives.
 
++ All files contain data for the same tweets, the differences are in format & level of detail. 
+
 ## kurteichenwald 
+
+Archived on 2017-Mar-17
 
 Included dates: 2010-Nov-01 (account creation) to 2017-Mar-17
 
 (First tweet was Nov 2011)
 
+## louisemensch
 
-### Full records:
-* kurteichenwald.json
-* kurteichenwald.sqlite3
+Archived on 2017-Mar-17
 
-### Short records:
-* kurteichenwald.all_tweets.txt
-* kurteichenwald_short.json
-* kurteichenwald.csv
+Included dates: 2009-Jan-01 (account creation) - 2017-Mar-19
+
+(First tweet was )
