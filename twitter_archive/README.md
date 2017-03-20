@@ -20,4 +20,4 @@ Archived on 2017-Mar-17
 
 Included dates: 2009-Jan-01 (account creation) - 2017-Mar-19
 
-(First tweet was )
+(First tweet was 2011-Apr-16)
