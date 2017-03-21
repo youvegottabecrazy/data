@@ -6,18 +6,11 @@
 
 + All files contain data for the same tweets, the differences are in format & level of detail. 
 
-## kurteichenwald 
+## collections
 
-Archived on 2017-Mar-17
+kurteichenwald (Archived on 2017-Mar-17)
 
-Included dates: 2010-Nov-01 (account creation) to 2017-Mar-17
+louisemensch (Archived on 2017-Mar-19)
 
-(First tweet was Nov 2011)
+paulkrugman (Archived on 2017-Mar-20)
 
-## louisemensch
-
-Archived on 2017-Mar-17
-
-Included dates: 2009-Jan-01 (account creation) - 2017-Mar-19
-
-(First tweet was 2011-Apr-16)
