@@ -17,3 +17,7 @@ paulkrugman (Archived on 2017-Mar-20)
 joshtpm (Archived on 2017-Mar-20)
 
 mmflint (Archived on 2017-Mar-20)
+
+chelseaclinton (Archived on 2017-Mar-21)
+
+joyannreid (Archived on 2017-Mar-21)
