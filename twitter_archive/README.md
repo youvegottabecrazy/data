@@ -9,19 +9,22 @@
 ## collections
 
 kurteichenwald (Archived on 2017-Mar-17)
-
 louisemensch (Archived on 2017-Mar-19)
-
 paulkrugman (Archived on 2017-Mar-20)
-
 joshtpm (Archived on 2017-Mar-20)
-
 mmflint (Archived on 2017-Mar-20)
-
 chelseaclinton (Archived on 2017-Mar-21)
-
 joyannreid (Archived on 2017-Mar-21)
-
 georgetakei (Archived on 2017-Mar-21)
-
 amy_siskind (Archived on 2017-Mar-22)
+elizabethforma (Archived on 2017-Mar-22)
+maddow (Archived on 2017-Mar-22)
+jeremyscahill (Archived on 2017-Mar-22)
+senwarren (Archived on 2017-Mar-22)
+mattmfm (Archived on 2017-Mar-22)
+mattyglesias (Archived on 2017-Mar-22)
+
+
+
+
+
