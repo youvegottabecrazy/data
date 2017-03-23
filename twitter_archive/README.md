@@ -8,11 +8,11 @@
 
 ## collections
 
-kurteichenwald (Archived on 2017-Mar-17)
-louisemensch (Archived on 2017-Mar-19)
-paulkrugman (Archived on 2017-Mar-20)
-joshtpm (Archived on 2017-Mar-20)
-mmflint (Archived on 2017-Mar-20)
+kurteichenwald (Archived on 2017-Mar-17)  
+louisemensch (Archived on 2017-Mar-19)  
+paulkrugman (Archived on 2017-Mar-20)  
+joshtpm (Archived on 2017-Mar-20)  
+mmflint (Archived on 2017-Mar-20)  
 chelseaclinton (Archived on 2017-Mar-21)
 joyannreid (Archived on 2017-Mar-21)
 georgetakei (Archived on 2017-Mar-21)
